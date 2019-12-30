@@ -1,5 +1,4 @@
-# Name of Project
-WordPress Starter Theme
+# WordPress Starter Theme
 
 ## Purpose
 - This is a WordPress theme starter using HTML5 blank, stripped back to the bear essentials to build up from. It uses WP Bootstrap Navwalker.
