@@ -18,7 +18,7 @@ WordPress Starter Theme
 
 ## Running the Project
 - vagrant up in your project folder
-- Sass watch outside of your Sss folder
+- Sass watch outside of your sass folder
   - sass --watch ./sass/style.scss:./style.css or run sass in your code editor
 
 ## Starters
