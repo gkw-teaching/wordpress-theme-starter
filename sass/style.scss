@@ -7,6 +7,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+html {
+  font-size: 62.5%; //rem becomes 10px : 1rem, instead of 16px : 1rem. Easier to calculate.
+}
 // Modules
 @import "modules/variables";
 @import "modules/mixins";
